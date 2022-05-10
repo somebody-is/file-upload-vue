@@ -1,6 +1,9 @@
 # file-upload-vue
 
 > A Vue.js project
+使用vue-simple-uploader实现文件上传、分片上传、断点续传
+
+后端项目地址：https://gitee.com/zong-fang-liu/file-upload
 
 ## Build Setup
 
